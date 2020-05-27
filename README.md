@@ -1,5 +1,5 @@
 # dfc-vae
-I turned my friends into dogs and made computer generated images of them with this deep feature consistent variational autoencoder
+I turned my friends into dogs and made computer generated images of them with this deep feature consistent variational autoencoder. In the repo I've attached some images of dog people as well as computer generated images and averages of faces. 
 
 I trained the model in PyTorch and reimplemented this paper: https://arxiv.org/abs/1610.00291
 
